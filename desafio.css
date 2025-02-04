@@ -133,7 +133,7 @@ main {
         display: flex;
         flex-direction: column;
         margin: 0;
-        margin-top: 60px;
+        margin-top: 40px;
 
 
     }
@@ -144,6 +144,8 @@ main {
         text-align: center;
         margin-right: 0px;
         margin-left: 45px;
+        margin-bottom: 0px;
+
 
     
 
@@ -172,6 +174,7 @@ main {
         line-height: 30px;
         color: rgba(22, 26, 73, 1);
         margin-left: 5px;
+        margin-bottom: 35px;
 
 
     }
@@ -185,11 +188,11 @@ main {
         font-weight: 400;
         line-height: 33px;
         color: rgba(75, 80, 90, 1);
-        width: 304px;
-        height: 165px;
-        margin-top: 10px;
-        margin-bottom: 29px;
-        padding: 3px 19px 3px 19px;
+        width: 324px;
+        height: 185px;
+        margin-top: 20px;
+        margin-bottom: 35px;
+        padding: 0px 0px 0px 0px;
     }
 
     div {
@@ -219,6 +222,8 @@ main {
         height: 31px;
         margin-left: 285px;
         margin-top: 10px;
+        font-size: 12px;
+        text-shadow:  2px 2px 2px rgb(124, 125, 136);
     }
 
     
